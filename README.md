@@ -5,7 +5,7 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile%20views&color=0e75b6&style=flat" alt="profile views" />
 </p>
 
----
+
 
 <h2>🚀 About Me</h2>
 <ul>
@@ -15,7 +15,6 @@
   <li>⚡ Fun fact: I debug more than I code 😄</li>
 </ul>
 
----
 
 <h2>🛠️ Skills</h2>
 <p>
@@ -24,7 +23,6 @@
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
 </p>
 
----
 
 <h2>📫 Connect with Me</h2>
 <p>
@@ -32,7 +30,5 @@
   <a href="https://linkedin.com/in/yourprofile">💼 LinkedIn</a> |
   <a href="mailto:youremail@example.com">📧 Email</a>
 </p>
-
----
 
 <p align="center">⭐️ Thanks for visiting my profile!</p>
